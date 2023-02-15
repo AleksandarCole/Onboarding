@@ -1,0 +1,4 @@
+## Day one
+##### Learning about version control software
+##### Learning markdown
+##### Learning about Github
